@@ -1,0 +1,11 @@
+/home/liuxg/web/myapp/platforms/ubuntu/ubuntu-sdk-14.10/armhf/prefix/cordova-ubuntu
+/home/liuxg/web/myapp/platforms/ubuntu/ubuntu-sdk-14.10/armhf/prefix/www/libcoreplugins.so
+/home/liuxg/web/myapp/platforms/ubuntu/ubuntu-sdk-14.10/armhf/prefix/www/cordova.js
+/home/liuxg/web/myapp/platforms/ubuntu/ubuntu-sdk-14.10/armhf/prefix/qml/main.qml
+/home/liuxg/web/myapp/platforms/ubuntu/ubuntu-sdk-14.10/armhf/prefix/CordovaUbuntu.4.1/CordovaViewInternal.qml
+/home/liuxg/web/myapp/platforms/ubuntu/ubuntu-sdk-14.10/armhf/prefix/CordovaUbuntu.4.1/libcordovaubuntuplugin.so
+/home/liuxg/web/myapp/platforms/ubuntu/ubuntu-sdk-14.10/armhf/prefix/CordovaUbuntu.4.1/CordovaView.qml
+/home/liuxg/web/myapp/platforms/ubuntu/ubuntu-sdk-14.10/armhf/prefix/CordovaUbuntu.4.1/ItemSelector.qml
+/home/liuxg/web/myapp/platforms/ubuntu/ubuntu-sdk-14.10/armhf/prefix/CordovaUbuntu.4.1/cordova_wrapper.js
+/home/liuxg/web/myapp/platforms/ubuntu/ubuntu-sdk-14.10/armhf/prefix/CordovaUbuntu.4.1/escape.js
+/home/liuxg/web/myapp/platforms/ubuntu/ubuntu-sdk-14.10/armhf/prefix/CordovaUbuntu.4.1/qmldir
